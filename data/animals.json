@@ -117,16 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Teuvo",
-      "species": "Spectacled Bear",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious",
-        "loving"
-      ],
-      "id": "12"
     }
   ]
 }
